@@ -10,5 +10,6 @@ Expected result:<br>
 <h2>Case 2:</h2>
 Command:<br>
 <code>python checkpassword.py fdsfjkdhuehreuw834324</code>
+
 Expected result:<br>
 <code>Password: fdsfjkdhuehreuw834324, was NOT found. You can use it!</code>
