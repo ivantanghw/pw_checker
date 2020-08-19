@@ -16,8 +16,9 @@ Expected result:<br>
 <br>
 <h2>Another version shown on my LinkedIn profile:</h2>
 The program asks for password after it runs instead of running the program with the password typed in the terminal.<br>
-Expected result:<br>
+Command:<br>
 <code>python checkpassword.py</code>
 Expected result:<br>
-<code>What is your password to check? i am happy 1234</code><br>
+<code>What is your password to check? i am happy 1234</code>
+<br>
 <code>Password: i am happy 1234, was NOT found. You can use it!<code>
