@@ -13,3 +13,8 @@ Command:<br>
 
 Expected result:<br>
 <code>Password: fdsfjkdhuehreuw834324, was NOT found. You can use it!</code>
+<br>
+<h2>Another version shown on my LinkedIn profile:</h2>
+<code>python checkpassword.py<br>
+What is your password to check? i am happy 1234<br>
+Password: i am happy 1234, was NOT found. You can use it!<code>
