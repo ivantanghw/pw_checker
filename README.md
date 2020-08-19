@@ -15,6 +15,7 @@ Expected result:<br>
 <code>Password: fdsfjkdhuehreuw834324, was NOT found. You can use it!</code>
 <br>
 <h2>Another version shown on my LinkedIn profile:</h2>
-<code>python checkpassword.py<br>
-What is your password to check? i am happy 1234<br>
-Password: i am happy 1234, was NOT found. You can use it!<code>
+The program asks for password after it runs instead of running the program with the password typed in the terminal.<br>
+<code>python checkpassword.py</code>
+<code>What is your password to check? i am happy 1234</code>
+<code>Password: i am happy 1234, was NOT found. You can use it!<code>
